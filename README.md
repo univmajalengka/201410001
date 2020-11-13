@@ -6,6 +6,10 @@ Saat ini saya Sedang kuliah di Universitas Majalengka, Falkutas Teknik, Prodi In
 :telephone: Hp: 083824273500 <br>
 Kelas 1 A <br>
 Semester 1
+</br>
+Course </br>
+Algoritmad dan Pemograman_1A</br>
+Pengantar Informatika_1A
 
 
  
