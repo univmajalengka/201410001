@@ -1,5 +1,5 @@
 ## 201410001 
-Hallo Teman-teman 👋 , I'm Dendi! <br>
+Hallo Teman-teman 👋 , I'm Dendi Purwanto! <br>
 Saat ini saya Sedang kuliah di Universitas Majalengka, Falkutas Teknik, Prodi Informatika </br></br>
 **Muhamad Dendi Purwanto**  
 :e-mail: Email: dendipurwanto72@gmail.com </br>
