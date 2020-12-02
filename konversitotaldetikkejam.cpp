@@ -1,5 +1,6 @@
 //konversi total detik ke jam, menit dan detik 
 #include <iostream>
+#include <windows.h>
 using namespace std;
 
 int main(){
@@ -11,6 +12,7 @@ int main(){
 	td= total detik
 	sm= second/menit 
 	*/
+	system ("color f0");
 	int j,m,d,td,sm;
 	cout <<"Nama 		: Muhamad Dendi Purwanto" << endl;
 	cout <<"NPM		: 20.14.1.0001"<< endl;
