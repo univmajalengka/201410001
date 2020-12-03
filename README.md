@@ -8,8 +8,8 @@ Kelas 1 A <br>
 Semester 1
 </br>
 Course </br>
--Algoritma dan Pemograman_1A</br>
--Pengantar Informatika_1A
-
+<button  class="btn btn-primary">Algoritma dan Pemograman_1A</button>
+</br>
+<button  class="btn btn-success">Pengantar Informatika_1A</button>
 
  
