@@ -4,8 +4,8 @@ Saat ini saya Sedang kuliah di Universitas Majalengka, Falkutas Teknik, Prodi In
 **Muhamad Dendi Purwanto**  
 :e-mail: Email: dendipurwanto72@gmail.com </br>
 :telephone: Hp: 083824273500 <br>
-Kelas 1 A <br>
-Semester 1
+:man_student: Kelas 1 A <br>
+:technologist: Semester 1 Informatika
 </br>
 Course </br>
 <button  class="btn btn-primary">Algoritma dan Pemograman_1A</button>
