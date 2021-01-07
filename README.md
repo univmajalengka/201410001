@@ -8,8 +8,7 @@ Saat ini saya Sedang kuliah di Universitas Majalengka, Falkutas Teknik, Prodi In
 :technologist: Semester 1 Informatika
 </br>
 Course </br>
-<button  class="btn btn-primary">Algoritma dan Pemograman_1A</button>
-</br>
-<button  class="btn btn-success">Pengantar Informatika_1A</button>
+:computer: Algoritma dan Pemograman_1A</br>
+:computer:  Pengantar Informatika_1A
 
  
